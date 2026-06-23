@@ -1,1 +1,2 @@
-This is an example file content.
+Hello, World!
+This is a C file management example.
